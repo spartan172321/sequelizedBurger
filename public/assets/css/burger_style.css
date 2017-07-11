@@ -1,0 +1,16 @@
+body {
+	background-color: #ffb380;
+}
+
+ul{
+	list-style-type: none;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
